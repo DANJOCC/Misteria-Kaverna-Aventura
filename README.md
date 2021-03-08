@@ -8,4 +8,4 @@ Elementos
 
 [no se metan aquí](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-[michi](./IMG_20210305_154205190.jpg)
+![michi](./IMG_20210305_154205190.jpg)
